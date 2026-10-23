@@ -1,0 +1,10 @@
+title: "🤖 Minhas Automações"
+description: "Do problema ao workflow N8N: meu método para automatizar a vida, um prompt de cada vez."
+theme: jekyll-theme-cayman
+lang: pt-BR
+plugins:
+  - jemoji
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
